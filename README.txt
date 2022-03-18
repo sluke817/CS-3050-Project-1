@@ -6,7 +6,7 @@ NAME OF .c FILE: ProgAssign1.c
 NAME OF .h FILE: ProgAssign1.h
 NAME OF THE MAIN FUNCTION FILE: main.c
 
-Before running, please compile. To compile, please use the following command on the cmdline: gcc main.c ProgAssign1.c -Wall -Werror
+Before running, please compile. To compile, please use the following command on the cmdline: make
 To run the program, please use the following command on the cmdline: ./a.out
 
 This program takes input from the command line.
