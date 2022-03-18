@@ -14,7 +14,7 @@ This program takes input from the command line.
 Commands:
 • P ⟨name⟩ – Creates a person with the specified first name.
 • F ⟨name1⟩⟨name2⟩ — Adds the two specified people as friends.
-• U ⟨name1⟩⟨name2⟩ — Removes the two specified people as longer friends.
+• U ⟨name1⟩⟨name2⟩ — Removes the two specified people as friends.
 • L ⟨name⟩ — Prints out the friends of the specified person.
 • Q ⟨name1⟩⟨name2⟩ — Checks whether the two people are friends.
 • X – terminate the program.
